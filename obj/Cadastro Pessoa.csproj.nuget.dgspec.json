@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 6\\Cadastro Pessoa.csproj": {}
+    "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 7\\Cadastro Pessoa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 6\\Cadastro Pessoa.csproj": {
+    "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 7\\Cadastro Pessoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 6\\Cadastro Pessoa.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 7\\Cadastro Pessoa.csproj",
         "projectName": "Cadastro Pessoa",
-        "projectPath": "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 6\\Cadastro Pessoa.csproj",
+        "projectPath": "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 7\\Cadastro Pessoa.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 6\\obj\\",
+        "outputPath": "C:\\Users\\paulo\\Desktop\\SENAI\\cod back end\\UC9\\encontro remoto 7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
